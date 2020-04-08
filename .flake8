@@ -1,0 +1,4 @@
+[flake8]
+exclude = migrations/* venv/ .git/ .env/
+max-line-length = 110
+docstring-convention google
